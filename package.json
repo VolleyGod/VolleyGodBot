@@ -1,0 +1,24 @@
+{
+  "name": "self-bot-by-volley-god",
+  "version": "1.0.0",
+  "description": "Self bot made by Volley God#7166 Check github for future updates",
+  "main": "app.js",
+  "scripts": {
+    "test": "%test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolleyGod/VolleyGodBot.git"
+  },
+  "keywords": [
+    "bot",
+    "self-bot",
+    "cool"
+  ],
+  "author": "Volley God",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolleyGod/VolleyGodBot/issues"
+  },
+  "homepage": "https://github.com/VolleyGod/VolleyGodBot#readme"
+}
